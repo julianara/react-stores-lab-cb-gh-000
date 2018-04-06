@@ -1,6 +1,10 @@
 class Store {
 
+<<<<<<< HEAD
   constructor(initialState) {
+=======
+  constructor(initalState) {
+>>>>>>> 6537562befafade2a72eec373e0a5c98d073686b
     this.state = initialState;
     this.listeners = [];
   }
